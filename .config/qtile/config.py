@@ -25,7 +25,8 @@
 # SOFTWARE.
 
 from typing import List  # noqa: F401
-
+from libqtile import hook
+import subprocess
 from libqtile import bar, layout, widget
 from libqtile.config import Click, Drag, Group, Key, Match, Screen
 from libqtile.lazy import lazy
@@ -34,14 +35,26 @@ from libqtile.utils import guess_terminal
 mod = "mod4"
 terminal = guess_terminal()
 
+@hook.subscribe.startup_once
+def autostart():
+    processes = [
+            ["discord"],
+        ["flameshot"],
+        ['blueman-applet'],
+        ['pomotroid']
+    ]
+
+    for p in processes:
+        subprocess.Popen(p)
+
 keys = [
     # Switch between windows
     Key([mod], "h", lazy.layout.left(), desc="Move focus to left"),
     Key([mod], "l", lazy.layout.right(), desc="Move focus to right"),
     Key([mod], "j", lazy.layout.down(), desc="Move focus down"),
     Key([mod], "k", lazy.layout.up(), desc="Move focus up"),
-    Key([mod], "space", lazy.layout.next(),
-        desc="Move window focus to other window"),
+    # Key([mod], "space", lazy.layout.next(),
+    #     desc="Move window focus to other window"),
 
     # Move windows between left/right columns or move up/down in current stack.
     # Moving out of range in Columns layout will create new column.
@@ -71,6 +84,7 @@ keys = [
     Key([mod, "shift"], "Return", lazy.layout.toggle_split(),
         desc="Toggle between split and unsplit sides of stack"),
     Key([mod], "Return", lazy.spawn(terminal), desc="Launch terminal"),
+    Key([mod, "shift" ], "Return", lazy.spawn("firefox"), desc="Launch firefox"),
 
     # Toggle between different layouts as defined below
     Key([mod], "Tab", lazy.next_layout(), desc="Toggle between layouts"),
@@ -78,8 +92,9 @@ keys = [
 
     Key([mod, "control"], "r", lazy.restart(), desc="Restart Qtile"),
     Key([mod, "control"], "q", lazy.shutdown(), desc="Shutdown Qtile"),
-    Key([mod], "r", lazy.spawncmd(),
+    Key([mod], "space", lazy.spawn("rofi -show drun"),
         desc="Spawn a command using a prompt widget"),
+    Key([mod, "shift"], "s", lazy.spawn("/usr/bin/flameshot gui"), desc="screenshot"),
 ]
 
 groups = []
@@ -148,10 +163,8 @@ screens = [
                     },
                     name_transform=lambda name: name.upper(),
                 ),
-                widget.Pomodoro(),
                 widget.Notify(),
                 widget.Volume(),
-
                 gme,
                 widget.BitcoinTicker(currency="EUR"),
                 widget.Systray(),
