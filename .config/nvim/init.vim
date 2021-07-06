@@ -1,3 +1,4 @@
+" My Config
 nnoremap <silent> <C-p> :Files<CR>
 set clipboard+=unnamedplus
 set number                     " Show current line number
