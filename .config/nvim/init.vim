@@ -1,11 +1,16 @@
+" My Config
 nnoremap <silent> <C-p> :Files<CR>
 set clipboard+=unnamedplus
 set number                     " Show current line number
 set relativenumber             " Show relative line numbers
-set hidden
-
-
+set hidden 
+" Theme colorscheme gruvbox
+colorscheme gruvbox
 call plug#begin('~/.vim/plugged')
+Plug 'morhetz/gruvbox'
+Plug 'mhinz/vim-startify'
+Plug 'francoiscabrol/ranger.vim'
+Plug 'rbgrouleff/bclose.vim'
 Plug 'kdheepak/lazygit.nvim'
 Plug 'tpope/vim-commentary'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
@@ -44,3 +49,7 @@ nnoremap <silent> <C-z> :ToggleTerminal<Enter>
 tnoremap <silent> <C-z> <C-\><C-n>:ToggleTerminal<Enter>
 
 " enable dotfiles for fzf not implemented
+"
+" space bar to leader
+let mapleader=" "
+
