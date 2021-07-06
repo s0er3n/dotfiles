@@ -41,6 +41,7 @@ def autostart():
             ["discord"],
         ["flameshot"],
         ['blueman-applet'],
+        ['nm-applet'],
         ['pomotroid']
     ]
 
