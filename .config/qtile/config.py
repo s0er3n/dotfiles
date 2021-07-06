@@ -31,8 +31,8 @@ from libqtile import bar, layout, widget
 from libqtile.config import Click, Drag, Group, Key, Match, Screen
 from libqtile.lazy import lazy
 from libqtile.utils import guess_terminal
-
-mod = "mod4"
+import platform
+mod = "mod1" if platform.uname().node == "soeren-cyan" else "mod4" 
 terminal = guess_terminal()
 
 @hook.subscribe.startup_once
@@ -95,6 +95,8 @@ keys = [
     Key([mod], "space", lazy.spawn("rofi -show drun"),
         desc="Spawn a command using a prompt widget"),
     Key([mod, "shift"], "s", lazy.spawn("/usr/bin/flameshot gui"), desc="screenshot"),
+    Key([mod], "F7", lazy.spawn("brightnessctl set +3%"), desc="make brighter"),
+    Key([mod], "F6", lazy.spawn("brightnessctl set 3%-"), desc="make less bright")
 ]
 
 groups = []
@@ -147,7 +149,6 @@ extension_defaults = widget_defaults.copy()
 
 gme = widget.StockTicker(apikey="V0B8Z5PUFCCTH30W",
                          symbol="GME")
-gme.sign = "$"
 
 screens = [
     Screen(
@@ -163,10 +164,9 @@ screens = [
                     },
                     name_transform=lambda name: name.upper(),
                 ),
+                widget.Battery(),
                 widget.Notify(),
                 widget.Volume(),
-                gme,
-                widget.BitcoinTicker(currency="EUR"),
                 widget.Systray(),
                 widget.Clock(format='%Y-%m-%d %a %I:%M %p'),
                 widget.QuickExit(),
