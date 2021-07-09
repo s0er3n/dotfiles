@@ -7,6 +7,9 @@ set hidden
 " Theme colorscheme gruvbox
 colorscheme gruvbox
 call plug#begin('~/.vim/plugged')
+Plug 'rodrigore/coc-tailwind-intellisense', {'do': 'npm install'}
+Plug 'sheerun/vim-polyglot'
+Plug 'dense-analysis/ale'
 Plug 'mhinz/vim-startify'
 Plug 'francoiscabrol/ranger.vim'
 Plug 'rbgrouleff/bclose.vim'
@@ -20,7 +23,6 @@ Plug 'caenrique/nvim-toggle-terminal'
 Plug 'tpope/vim-surround'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
 call plug#end()
 
 let $NVIM_TUI_ENABLE_TRUE_COLOR=1

@@ -1,1 +1,1 @@
-{"diagnostic.checkCurrentLine": true}
+{"diagnostic.checkCurrentLine": true, "tailwindCSS.trace.server": true, "tailwindCSS.emmetCompletions": true}

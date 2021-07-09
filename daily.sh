@@ -1,3 +1,3 @@
 #!/bin/bash
-yadm pull && yadm commit -am "update cron" && yadm push
+yadm commit -am "update cron" && yadm pull && yadm push
 
