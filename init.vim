@@ -4,7 +4,8 @@ set clipboard=unnamedplus      " copy and yank to system clipboard
 tnoremap <Esc> <C-\><C-n>      " enable esc in terminal
 let mapleader = "\<Space>"
 "theme
-colorscheme gruvbox
+colorscheme gruvbox8
+
 let $NVIM_TUI_ENABLE_TRUE_COLOR=1
 let g:auto_save = 1
 
