@@ -305,8 +305,8 @@ set $ws10 "10"
 
 
 # automatic set focus new window if it opens on another workspace then the current:
-for_window [class=Xfce4-terminal] focus
-for_window [class=(?i)firefox] focus
+# for_window [class=Xfce4-terminal] focus
+# for_window [class=(?i)firefox] focus
 #for_window [class=Thunar] focus
 #for_window [class=Thunderbird] focus
 #for_window [class=TelegramDesktop] focus
