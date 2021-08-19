@@ -1,7 +1,0 @@
-[Error - 11:37:41] Tailwind CSS: Can't resolve 'tailwindcss' in '/home/soeren/Programming/frontend_newsletter/my-svelte-project'
-Error
-    at new g (/home/soeren/.vscode/extensions/bradlc.vscode-tailwindcss-0.6.13/dist/server/tailwindServer.js:56:279180)
-    at /home/soeren/.vscode/extensions/bradlc.vscode-tailwindcss-0.6.13/dist/server/tailwindServer.js:56:346192
-    at Generator.next (<anonymous>)
-    at o (/home/soeren/.vscode/extensions/bradlc.vscode-tailwindcss-0.6.13/dist/server/tailwindServer.js:56:339494)
-    at processTicksAndRejections (internal/process/task_queues.js:93:5)
