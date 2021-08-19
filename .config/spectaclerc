@@ -1,0 +1,16 @@
+[$Version]
+update_info=spectacle_newConfig.upd:spectacle-new-config
+
+[GuiConfig]
+captureMode=5
+cropRegion=991,430,907,467
+window-position=30,30
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Bilder/Screenshot_20210421_135001.png,file:$HOME/Bilder/%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3Czzxxxxxxxcccccccccccvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvbbbbbbbbbbbbbbbnnnnnmmmmmmmmmmmmmmmmmmmmm\\,\\,./ [ .png,file:$HOME/Bilder/%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3Czzxxxxxxxcccccccccccvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvbbbbbbbbbbbbbbbnnnnnmmmmmmmmmmmmmmmmmmmmm\\,\\,.//////////////  .png
+Recent URLs[$e]=file:$HOME/Bilder/,file:$HOME/,file:$HOME/Bilder/%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3Czzxxxxxxxcccccccccccvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvbbbbbbbbbbbbbbbnnnnnmmmmmmmmmmmmmmmmmmmmm\\,\\,./
+detailViewIconSize=16
+
+[Save]
+lastSaveAsLocation=file:///home/soeren/Bilder/%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3Czzxxxxxxxcccccccccccvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvbbbbbbbbbbbbbbbnnnnnmmmmmmmmmmmmmmmmmmmmm,,./ [ .png
+lastSaveLocation=file:///home/soeren/Bilder/%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3Czzxxxxxxxcccccccccccvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvbbbbbbbbbbbbbbbnnnnnmmmmmmmmmmmmmmmmmmmmm,,./ [ .png

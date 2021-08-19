@@ -1,0 +1,21 @@
+TypeError: must pass in a file:// URI to convert to a file path
+    at Object.fileUriToPath (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/server/out/utils.js:25:15)
+    at reloadDocument (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/server/out/server.js:69:70)
+    at /home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/server/out/server.js:60:5
+    at CallbackList.invoke (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/server/node_modules/vscode-jsonrpc/lib/events.js:62:39)
+    at Emitter.fire (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/server/node_modules/vscode-jsonrpc/lib/events.js:120:36)
+    at /home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/server/node_modules/vscode-languageserver/lib/main.js:181:38
+    at handleNotification (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/server/node_modules/vscode-jsonrpc/lib/main.js:489:43)
+    at processMessageQueue (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/server/node_modules/vscode-jsonrpc/lib/main.js:260:17)
+    at Immediate._onImmediate (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/server/node_modules/vscode-jsonrpc/lib/main.js:247:13)
+    at processImmediate (internal/timers.js:461:21)
+TypeError: must pass in a file:// URI to convert to a file path
+    at Object.fileUriToPath (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/server/out/utils.js:25:15)
+    at /home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/server/out/server.js:63:70
+    at CallbackList.invoke (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/server/node_modules/vscode-jsonrpc/lib/events.js:62:39)
+    at Emitter.fire (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/server/node_modules/vscode-jsonrpc/lib/events.js:120:36)
+    at /home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/server/node_modules/vscode-languageserver/lib/main.js:202:34
+    at handleNotification (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/server/node_modules/vscode-jsonrpc/lib/main.js:489:43)
+    at processMessageQueue (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/server/node_modules/vscode-jsonrpc/lib/main.js:260:17)
+    at Immediate._onImmediate (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/server/node_modules/vscode-jsonrpc/lib/main.js:247:13)
+    at processImmediate (internal/timers.js:461:21)

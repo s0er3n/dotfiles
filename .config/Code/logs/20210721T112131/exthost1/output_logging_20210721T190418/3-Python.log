@@ -1,0 +1,24 @@
+User belongs to experiment group 'pythonaacf'
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonTensorboardExperiment'
+User belongs to experiment group 'pythonSurveyNotificationcf'
+User belongs to experiment group 'PythonPyTorchProfiler'
+User belongs to experiment group 'pythonDeprecatePythonPath'
+User belongs to experiment group 'pythonSortEnvscf'
+Python interpreter path: ./.venv/bin/python
+Error 2021-07-21 19:04:21: Failed to check if file needs to be fixed EntryNotFound (FileSystemError): Die Datei "/home/soeren/Programming/newsletter-website-backend/.vscode/settings.json" kann nicht gelesen werden (Error: Die nicht vorhandene Datei "/home/soeren/Programming/newsletter-website-backend/.vscode/settings.json" kann nicht aufgelöst werden.).
+    at _handleError (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:167834)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at y.readText (/home/soeren/.vscode/extensions/ms-python.python-2021.7.1050252941/out/client/extension.js:9:341417)
+    at p.doesFileNeedToBeFixed (/home/soeren/.vscode/extensions/ms-python.python-2021.7.1050252941/out/client/extension.js:59:589732)
+    at /home/soeren/.vscode/extensions/ms-python.python-2021.7.1050252941/out/client/extension.js:59:588859
+    at async Promise.all (index 1)
+    at p.getFilesToBeFixed (/home/soeren/.vscode/extensions/ms-python.python-2021.7.1050252941/out/client/extension.js:59:588805)
+    at p.updateTestSettings (/home/soeren/.vscode/extensions/ms-python.python-2021.7.1050252941/out/client/extension.js:59:588432) {
+  code: 'FileNotFound'
+}
+Starting Pylance language server.
+> conda --version
+Error 2021-07-21 20:17:10: Error while running worker[Worker 2]. undefined
+Error 2021-07-21 20:17:10: Error while running worker[Worker 1]. undefined

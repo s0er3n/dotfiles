@@ -1,0 +1,18 @@
+2021/08/19-13:36:10.725 2a83 Reusing MANIFEST /home/soeren/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/08/19-13:36:10.728 2a83 Recovering log #1871
+2021/08/19-13:36:10.729 2a83 Reusing old log /home/soeren/.config/discord/Local Storage/leveldb/001871.log 
+2021/08/19-14:03:51.467 c52b Level-0 table #1875: started
+2021/08/19-14:03:51.470 c52b Level-0 table #1875: 14306 bytes OK
+2021/08/19-14:03:51.472 c52b Delete type=0 #1871
+2021/08/19-14:03:51.472 c52b Compacting 4@0 + 1@1 files
+2021/08/19-14:03:51.473 c52b Generated table #1876@0: 112 keys, 27463 bytes
+2021/08/19-14:03:51.473 c52b Compacted 4@0 + 1@1 files => 27463 bytes
+2021/08/19-14:03:51.475 c52b compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/08/19-14:03:51.475 c52b Delete type=2 #1872
+2021/08/19-14:03:51.475 c52b Delete type=2 #1865
+2021/08/19-14:03:51.475 c52b Delete type=2 #1870
+2021/08/19-14:03:51.475 c52b Delete type=2 #1867
+2021/08/19-14:03:51.475 c52b Delete type=2 #1875
+2021/08/19-14:38:04.555 c52b Level-0 table #1878: started
+2021/08/19-14:38:04.561 c52b Level-0 table #1878: 14240 bytes OK
+2021/08/19-14:38:04.562 c52b Delete type=0 #1874

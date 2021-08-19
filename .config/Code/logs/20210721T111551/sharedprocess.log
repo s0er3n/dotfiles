@@ -1,0 +1,20 @@
+[2021-07-21 11:15:53.154] [sharedprocess] [info] Deleted from disk fivethree.vscode-svelte-snippets /home/soeren/.vscode/extensions/fivethree.vscode-svelte-snippets-0.5.0
+[2021-07-21 11:15:53.160] [sharedprocess] [info] Deleted from disk bradlc.vscode-tailwindcss /home/soeren/.vscode/extensions/bradlc.vscode-tailwindcss-0.6.13
+[2021-07-21 11:15:53.167] [sharedprocess] [info] Deleted from disk esbenp.prettier-vscode /home/soeren/.vscode/extensions/esbenp.prettier-vscode-8.0.1
+[2021-07-21 11:15:53.167] [sharedprocess] [info] Deleted from disk stuart.unique-window-colors /home/soeren/.vscode/extensions/stuart.unique-window-colors-1.0.51
+[2021-07-21 11:16:02.945] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-07-21 11:16:02.945] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210720T183409'
+[2021-07-21 11:16:22.948] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-07-21 11:16:22.949] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-07-21 11:16:32.946] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-07-21 11:16:32.948] [sharedprocess] [info] [language pack cache cleanup]: Skipping folder 001de9834a40fbde62f409a308aee70e.de. Language pack still in use.
+[2021-07-21 11:16:39.346] [sharedprocess] [info] Uninstalling extension: vscodevim.vim
+[2021-07-21 11:16:39.357] [sharedprocess] [info] Successfully uninstalled extension: vscodevim.vim
+[2021-07-21 11:16:39.667] [sharedprocess] [info] Detected extension removed from another source vscodevim.vim
+[2021-07-21 11:16:58.356] [sharedprocess] [info] Uninstalling extension: asvetliakov.vscode-neovim
+[2021-07-21 11:16:58.369] [sharedprocess] [info] Successfully uninstalled extension: asvetliakov.vscode-neovim
+[2021-07-21 11:16:58.577] [sharedprocess] [info] Detected extension removed from another source asvetliakov.vscode-neovim
+[2021-07-21 11:17:34.256] [sharedprocess] [info] Installing extension: asvetliakov.vscode-neovim
+[2021-07-21 11:17:35.591] [sharedprocess] [info] Downloaded extension: asvetliakov.vscode-neovim /home/soeren/.config/Code/CachedExtensionVSIXs/asvetliakov.vscode-neovim-0.0.82
+[2021-07-21 11:17:35.615] [sharedprocess] [info] Removed the extension from uninstalled list: asvetliakov.vscode-neovim
+[2021-07-21 11:17:35.619] [sharedprocess] [info] Extensions installed successfully: asvetliakov.vscode-neovim

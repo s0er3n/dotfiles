@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "coc-prettier": ">=1.1.24",
+    "coc-pyright": ">=1.1.161",
+    "coc-python": ">=1.2.13",
+    "coc-svelte": ">=0.3.0"
+  }
+}

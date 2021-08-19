@@ -1,0 +1,53 @@
+[2021-07-22 10:03:16.449] [renderer1] [error] Cannot read property 'kind' of null: TypeError: Cannot read property 'kind' of null
+    at asHoverContent (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+[2021-07-22 10:03:17.852] [renderer1] [error] Cannot read property 'kind' of null: TypeError: Cannot read property 'kind' of null
+    at asHoverContent (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+[2021-07-22 12:57:02.559] [renderer1] [error] Cannot read property 'kind' of null: TypeError: Cannot read property 'kind' of null
+    at asHoverContent (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+[2021-07-22 12:57:06.502] [renderer1] [error] Cannot read property 'kind' of null: TypeError: Cannot read property 'kind' of null
+    at asHoverContent (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+[2021-07-22 12:57:11.043] [renderer1] [error] Cannot read property 'kind' of null: TypeError: Cannot read property 'kind' of null
+    at asHoverContent (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+[2021-07-22 12:57:13.310] [renderer1] [error] Cannot read property 'kind' of null: TypeError: Cannot read property 'kind' of null
+    at asHoverContent (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+[2021-07-22 13:02:21.795] [renderer1] [error] Cannot read property 'kind' of null: TypeError: Cannot read property 'kind' of null
+    at asHoverContent (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+[2021-07-22 13:04:01.179] [renderer1] [error] Cannot read property 'kind' of null: TypeError: Cannot read property 'kind' of null
+    at asHoverContent (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+[2021-07-22 13:07:43.314] [renderer1] [error] Cannot read property 'kind' of null: TypeError: Cannot read property 'kind' of null
+    at asHoverContent (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+[2021-07-22 13:07:44.422] [renderer1] [error] Cannot read property 'kind' of null: TypeError: Cannot read property 'kind' of null
+    at asHoverContent (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+[2021-07-22 13:07:59.744] [renderer1] [error] Cannot read property 'kind' of null: TypeError: Cannot read property 'kind' of null
+    at asHoverContent (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+[2021-07-22 13:08:11.988] [renderer1] [error] Cannot read property 'kind' of null: TypeError: Cannot read property 'kind' of null
+    at asHoverContent (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+[2021-07-22 13:10:57.642] [renderer1] [error] Cannot read property 'kind' of null: TypeError: Cannot read property 'kind' of null
+    at asHoverContent (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+[2021-07-22 13:10:59.099] [renderer1] [error] Cannot read property 'kind' of null: TypeError: Cannot read property 'kind' of null
+    at asHoverContent (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+[2021-07-22 13:16:52.835] [renderer1] [error] Cannot read property 'kind' of null: TypeError: Cannot read property 'kind' of null
+    at asHoverContent (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+[2021-07-22 13:16:56.054] [renderer1] [error] Cannot read property 'kind' of null: TypeError: Cannot read property 'kind' of null
+    at asHoverContent (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)
+    at runNextTicks (internal/process/task_queues.js:58:5)
+    at processImmediate (internal/timers.js:434:9)
+[2021-07-22 13:17:14.073] [renderer1] [error] Cannot read property 'kind' of null: TypeError: Cannot read property 'kind' of null
+    at asHoverContent (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:101:27)
+    at asHover (/home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/node_modules/vscode-languageclient/lib/protocolConverter.js:134:31)

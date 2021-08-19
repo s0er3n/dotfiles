@@ -1,0 +1,12 @@
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=SettingsBase
+DisplayPort-1 Height 1920x1080=700
+DisplayPort-1 Width 1920x1080=1164
+DisplayPort-1 XPosition 1920x1080=444
+DisplayPort-1 YPosition 1920x1080=170
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAABIwAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA

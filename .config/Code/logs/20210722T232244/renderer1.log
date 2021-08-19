@@ -1,0 +1,16 @@
+[2021-07-22 23:24:18.801] [renderer1] [error] command 'vscode-neovim.escape' not found: Error: command 'vscode-neovim.escape' not found
+    at g._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:3360)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:3241
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-07-22 23:24:18.972] [renderer1] [error] nvim_call_function: Vim:E117: Unbekannte Funktion: VSCodeClearUndo: Error: Error making request to nvim_call_function
+    at o.request (/home/soeren/.vscode/extensions/andyyu2004.vscode-neovim-0.0.85/node_modules/neovim/lib/api/Base.js:75:23)
+    at o.call (/home/soeren/.vscode/extensions/andyyu2004.vscode-neovim-0.0.85/node_modules/neovim/lib/api/Neovim.js:321:21)
+    at o.callFunction (/home/soeren/.vscode/extensions/andyyu2004.vscode-neovim-0.0.85/node_modules/neovim/lib/api/Neovim.js:327:21)
+    at ue.<anonymous> (/home/soeren/.vscode/extensions/andyyu2004.vscode-neovim-0.0.85/src/buffer_manager.ts:529:31)
+    at Generator.next (<anonymous>)
+    at o (/home/soeren/.vscode/extensions/andyyu2004.vscode-neovim-0.0.85/dist/extension.js:2:287327)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-07-22 23:24:32.619] [renderer1] [error] command 'vscode-neovim.escape' not found: Error: command 'vscode-neovim.escape' not found
+    at g._tryExecuteCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:3360)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1678:3241
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

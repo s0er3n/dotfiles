@@ -1,0 +1,198 @@
+Validating found git in: git
+Verwenden von Git 2.32.0 von git
+> git rev-parse --git-dir
+Open repository: /home/soeren/Programming/frontend_newsletter
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :my-svelte-project/src/flow/ExpandableTile.svelte
+> git ls-files --stage -- /home/soeren/Programming/frontend_newsletter/my-svelte-project/src/flow/ExpandableTile.svelte
+> git cat-file -s db7cb4451753aa46cf7aae00fb2f4d5f6ace8489
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :my-svelte-project/src/App.svelte
+> git ls-files --stage -- /home/soeren/Programming/frontend_newsletter/my-svelte-project/src/App.svelte
+> git cat-file -s 6bc19deff41e7c4e3272ef44dce94a16369a8d05
+> git show --textconv :my-svelte-project/src/sideObjects/AddButton.svelte
+> git ls-files --stage -- /home/soeren/Programming/frontend_newsletter/my-svelte-project/src/sideObjects/AddButton.svelte
+> git cat-file -s a144b28149304b9dc5dd4beb216226896e9248e9
+> git show --textconv :my-svelte-project/src/App.svelte
+> git ls-files --stage -- /home/soeren/Programming/frontend_newsletter/my-svelte-project/src/App.svelte
+> git cat-file -s 6bc19deff41e7c4e3272ef44dce94a16369a8d05
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :my-svelte-project/README.md
+> git ls-files --stage -- /home/soeren/Programming/frontend_newsletter/my-svelte-project/README.md
+> git cat-file -s 7b1ba8363499e091996af78355e71d504b220312
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :my-svelte-project/src/sideObjects/AddButton.svelte
+> git ls-files --stage -- /home/soeren/Programming/frontend_newsletter/my-svelte-project/src/sideObjects/AddButton.svelte
+> git cat-file -s a144b28149304b9dc5dd4beb216226896e9248e9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :my-svelte-project/src/App.svelte
+> git ls-files --stage -- /home/soeren/Programming/frontend_newsletter/my-svelte-project/src/App.svelte
+> git cat-file -s 6bc19deff41e7c4e3272ef44dce94a16369a8d05
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :my-svelte-project/src/sideObjects/AddButton.svelte
+> git ls-files --stage -- /home/soeren/Programming/frontend_newsletter/my-svelte-project/src/sideObjects/AddButton.svelte
+> git cat-file -s a144b28149304b9dc5dd4beb216226896e9248e9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :my-svelte-project/src/sideObjects/AddButton.svelte
+> git ls-files --stage -- /home/soeren/Programming/frontend_newsletter/my-svelte-project/src/sideObjects/AddButton.svelte
+> git cat-file -s a144b28149304b9dc5dd4beb216226896e9248e9
+> git show --textconv :my-svelte-project/src/sideObjects/AddButton.svelte
+> git ls-files --stage -- /home/soeren/Programming/frontend_newsletter/my-svelte-project/src/sideObjects/AddButton.svelte
+> git cat-file -s a144b28149304b9dc5dd4beb216226896e9248e9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/test-anmation refs/remotes/test-anmation
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

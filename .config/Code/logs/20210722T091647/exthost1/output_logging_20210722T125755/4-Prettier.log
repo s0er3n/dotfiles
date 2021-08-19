@@ -1,0 +1,153 @@
+["INFO" - 12:57:55] Extension Name: esbenp.prettier-vscode.
+["INFO" - 12:57:56] Extension Version: 8.0.1.
+["INFO" - 13:00:27] Formatting /home/soeren/Programming/website-redesign/rollup.config.js
+["INFO" - 13:00:27] Using ignore file (if present) at /home/soeren/Programming/website-redesign/.prettierignore
+["INFO" - 13:00:27] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 13:00:27] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 13:00:27] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/soeren/Programming/website-redesign/rollup.config.js",
+  "parser": "babel",
+  "rangeEnd": 1778,
+  "rangeStart": 1023
+}
+["ERROR" - 13:00:27] Error formatting document.
+["ERROR" - 13:00:27] Unexpected token, expected "," (69:3)
+  67 | 		// we'll extract any component CSS out into
+  68 | 		// a separate file - better for performance
+> 69 | 		css({ output: 'bundle.css' }),
+     | 		^
+  70 |
+  71 | 		// If you have external dependencies installed from
+  72 | 		// npm, you'll most likely need these plugins. In
+SyntaxError: Unexpected token, expected "," (69:3)
+  67 | 		// we'll extract any component CSS out into
+  68 | 		// a separate file - better for performance
+> 69 | 		css({ output: 'bundle.css' }),
+     | 		^
+  70 |
+  71 | 		// If you have external dependencies installed from
+  72 | 		// npm, you'll most likely need these plugins. In
+    at Us (/home/soeren/.vscode/extensions/esbenp.prettier-vscode-8.0.1/node_modules/prettier/parser-babel.js:22:7277)
+    at tn (/home/soeren/.vscode/extensions/esbenp.prettier-vscode-8.0.1/node_modules/prettier/parser-babel.js:22:66392)
+    at Object.parse (/home/soeren/.vscode/extensions/esbenp.prettier-vscode-8.0.1/node_modules/prettier/parser-babel.js:22:334269)
+    at Object.parse$a [as parse] (/home/soeren/.vscode/extensions/esbenp.prettier-vscode-8.0.1/node_modules/prettier/index.js:13652:19)
+    at formatRange (/home/soeren/.vscode/extensions/esbenp.prettier-vscode-8.0.1/node_modules/prettier/index.js:15273:16)
+    at formatWithCursor$1 (/home/soeren/.vscode/extensions/esbenp.prettier-vscode-8.0.1/node_modules/prettier/index.js:15417:14)
+    at /home/soeren/.vscode/extensions/esbenp.prettier-vscode-8.0.1/node_modules/prettier/index.js:60171:12
+    at Object.Success [as format] (/home/soeren/.vscode/extensions/esbenp.prettier-vscode-8.0.1/node_modules/prettier/index.js:60191:12)
+    at t.default.<anonymous> (/home/soeren/.vscode/extensions/esbenp.prettier-vscode-8.0.1/src/PrettierEditService.ts:472:45)
+    at Generator.next (<anonymous>)
+    at i (/home/soeren/.vscode/extensions/esbenp.prettier-vscode-8.0.1/dist/extension.js:1:7003)
+["INFO" - 13:00:27] Formatting completed in 123.390534ms.
+["INFO" - 13:00:32] Formatting /home/soeren/Programming/website-redesign/rollup.config.js
+["INFO" - 13:00:32] Using ignore file (if present) at /home/soeren/Programming/website-redesign/.prettierignore
+["INFO" - 13:00:32] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 13:00:32] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 13:00:32] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/soeren/Programming/website-redesign/rollup.config.js",
+  "parser": "babel"
+}
+["ERROR" - 13:00:32] Error formatting document.
+["ERROR" - 13:00:32] Unexpected token, expected "," (69:3)
+  67 | 		// we'll extract any component CSS out into
+  68 | 		// a separate file - better for performance
+> 69 | 		css({ output: 'bundle.css' }),
+     | 		^
+  70 |
+  71 | 		// If you have external dependencies installed from
+  72 | 		// npm, you'll most likely need these plugins. In
+SyntaxError: Unexpected token, expected "," (69:3)
+  67 | 		// we'll extract any component CSS out into
+  68 | 		// a separate file - better for performance
+> 69 | 		css({ output: 'bundle.css' }),
+     | 		^
+  70 |
+  71 | 		// If you have external dependencies installed from
+  72 | 		// npm, you'll most likely need these plugins. In
+    at Us (/home/soeren/.vscode/extensions/esbenp.prettier-vscode-8.0.1/node_modules/prettier/parser-babel.js:22:7277)
+    at tn (/home/soeren/.vscode/extensions/esbenp.prettier-vscode-8.0.1/node_modules/prettier/parser-babel.js:22:66392)
+    at Object.parse (/home/soeren/.vscode/extensions/esbenp.prettier-vscode-8.0.1/node_modules/prettier/parser-babel.js:22:334269)
+    at Object.parse$a [as parse] (/home/soeren/.vscode/extensions/esbenp.prettier-vscode-8.0.1/node_modules/prettier/index.js:13652:19)
+    at coreFormat (/home/soeren/.vscode/extensions/esbenp.prettier-vscode-8.0.1/node_modules/prettier/index.js:15183:16)
+    at formatWithCursor$1 (/home/soeren/.vscode/extensions/esbenp.prettier-vscode-8.0.1/node_modules/prettier/index.js:15423:14)
+    at /home/soeren/.vscode/extensions/esbenp.prettier-vscode-8.0.1/node_modules/prettier/index.js:60171:12
+    at Object.Success [as format] (/home/soeren/.vscode/extensions/esbenp.prettier-vscode-8.0.1/node_modules/prettier/index.js:60191:12)
+    at t.default.<anonymous> (/home/soeren/.vscode/extensions/esbenp.prettier-vscode-8.0.1/src/PrettierEditService.ts:472:45)
+    at Generator.next (<anonymous>)
+    at i (/home/soeren/.vscode/extensions/esbenp.prettier-vscode-8.0.1/dist/extension.js:1:7003)
+["INFO" - 13:00:32] Formatting completed in 20.248064ms.
+["INFO" - 13:05:49] Formatting /home/soeren/Programming/website-redesign/public/index.html
+["INFO" - 13:05:49] Using ignore file (if present) at /home/soeren/Programming/website-redesign/.prettierignore
+["INFO" - 13:05:49] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 13:05:49] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 13:05:49] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/soeren/Programming/website-redesign/public/index.html",
+  "parser": "html"
+}
+["INFO" - 13:05:49] Formatting completed in 81.672683ms.

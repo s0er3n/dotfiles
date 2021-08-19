@@ -1,0 +1,5 @@
+[Info  - 19:04:21] Pylance language server 2021.7.4 (pyright 209f9621) starting
+[Info  - 19:04:21] Server root directory: /home/soeren/.vscode/extensions/ms-python.vscode-pylance-2021.7.4/dist
+[Info  - 19:04:22] Background analysis(1) root directory: /home/soeren/.vscode/extensions/ms-python.vscode-pylance-2021.7.4/dist
+[Info  - 19:04:22] Background analysis(1) started
+[Error - 19:04:22] Pyproject file "/home/soeren/Programming/newsletter-website-backend/pyproject.toml" is missing "[tool.pyright] section.

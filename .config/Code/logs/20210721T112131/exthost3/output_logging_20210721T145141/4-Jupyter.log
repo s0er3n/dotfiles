@@ -1,0 +1,19 @@
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonSurveyNotificationcf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+User belongs to experiment group 'pythonDeprecatePythonPath'
+User belongs to experiment group 'pythonSortEnvscf'
+Info 2021-07-21 14:51:42: ZMQ install verified.
+Info 2021-07-21 15:25:55: Shutting down notebooks for 37b6025e-3272-4de2-9752-6c5360f78eb4
+Info 2021-07-21 15:25:55: Disposing HostJupyterExecution f0fcfc5d-6bd6-468a-a0aa-de756e4c43c4
+Info 2021-07-21 15:25:55: Disposing super HostJupyterExecution f0fcfc5d-6bd6-468a-a0aa-de756e4c43c4
+Info 2021-07-21 15:25:55: Disposing HostJupyterExecution f0fcfc5d-6bd6-468a-a0aa-de756e4c43c4
+Info 2021-07-21 15:25:55: Finished disposing HostJupyterExecution  f0fcfc5d-6bd6-468a-a0aa-de756e4c43c4
+Info 2021-07-21 15:25:55: Disposing HostJupyterExecution f0fcfc5d-6bd6-468a-a0aa-de756e4c43c4
+Info 2021-07-21 15:25:55: Finished disposing HostJupyterExecution  f0fcfc5d-6bd6-468a-a0aa-de756e4c43c4
+Info 2021-07-21 15:25:55: Getting live share API during dispose HostJupyterExecution f0fcfc5d-6bd6-468a-a0aa-de756e4c43c4
+Info 2021-07-21 15:25:55: Detaching HostJupyterExecution f0fcfc5d-6bd6-468a-a0aa-de756e4c43c4
+Info 2021-07-21 15:25:55: Cleaning up server cache f0fcfc5d-6bd6-468a-a0aa-de756e4c43c4
+Info 2021-07-21 15:25:56: Finished disposing HostJupyterExecution  f0fcfc5d-6bd6-468a-a0aa-de756e4c43c4

@@ -1,0 +1,109 @@
+[2021-07-21 11:15:53.357] [exthost] [info] extension host started
+[2021-07-21 11:15:53.357] [exthost] [info] Skipping acquiring lock for /home/soeren/.config/Code/User/workspaceStorage/3be0cc06f5ab4a32eef053f3bae656c0.
+[2021-07-21 11:15:53.448] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-07-21 11:15:53.448] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-07-21 11:15:53.458] [exthost] [info] ExtensionService#_doActivateExtension ardenivanov.svelte-intellisense {"startup":false,"extensionId":{"value":"ardenivanov.svelte-intellisense","_lower":"ardenivanov.svelte-intellisense"},"activationEvent":"onLanguage:svelte"}
+[2021-07-21 11:15:53.458] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/out/extension
+[2021-07-21 11:15:53.483] [exthost] [info] ExtensionService#_doActivateExtension pivaszbs.svelte-autoimport {"startup":false,"extensionId":{"value":"pivaszbs.svelte-autoimport","_lower":"pivaszbs.svelte-autoimport"},"activationEvent":"onLanguage:svelte"}
+[2021-07-21 11:15:53.483] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/soeren/.vscode/extensions/pivaszbs.svelte-autoimport-1.0.4/out/extension.js
+[2021-07-21 11:15:53.493] [exthost] [info] ExtensionService#_doActivateExtension svelte.svelte-vscode {"startup":false,"extensionId":{"value":"svelte.svelte-vscode","_lower":"svelte.svelte-vscode"},"activationEvent":"onLanguage:svelte"}
+[2021-07-21 11:15:53.493] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/soeren/.vscode/extensions/svelte.svelte-vscode-105.3.1/dist/src/extension.js
+[2021-07-21 11:15:53.591] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-21 11:15:53.591] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-07-21 11:15:53.594] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-21 11:15:53.595] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-07-21 11:15:53.613] [exthost] [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim {"startup":true,"extensionId":{"value":"asvetliakov.vscode-neovim","_lower":"asvetliakov.vscode-neovim"},"activationEvent":"*"}
+[2021-07-21 11:15:53.614] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/soeren/.vscode/extensions/asvetliakov.vscode-neovim-0.0.82/dist/extension.js
+[2021-07-21 11:15:53.626] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-07-21 11:15:53.626] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/soeren/.vscode/extensions/vscodevim.vim-1.21.5/out/extension
+[2021-07-21 11:15:53.668] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-07-21 11:15:53.668] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/npmMain
+[2021-07-21 11:15:54.173] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-21 11:15:54.173] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-07-21 11:15:54.243] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-07-21 11:15:54.243] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-07-21 11:15:54.374] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-07-21 11:15:54.374] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-07-21 11:15:54.419] [exthost] [info] eager extensions activated
+[2021-07-21 11:15:54.464] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-07-21 11:15:54.464] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-21 11:15:54.470] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-07-21 11:15:54.470] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-21 11:15:54.472] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-07-21 11:15:54.472] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-07-21 11:16:41.077] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-07-21 11:16:42.086] [exthost] [info] exiting with code 0
+[2021-07-21 11:16:42.611] [exthost] [info] extension host started
+[2021-07-21 11:16:42.611] [exthost] [info] Skipping acquiring lock for /home/soeren/.config/Code/User/workspaceStorage/3be0cc06f5ab4a32eef053f3bae656c0.
+[2021-07-21 11:16:42.712] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-07-21 11:16:42.712] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-07-21 11:16:42.722] [exthost] [info] ExtensionService#_doActivateExtension ardenivanov.svelte-intellisense {"startup":false,"extensionId":{"value":"ardenivanov.svelte-intellisense","_lower":"ardenivanov.svelte-intellisense"},"activationEvent":"onLanguage:svelte"}
+[2021-07-21 11:16:42.722] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/out/extension
+[2021-07-21 11:16:42.750] [exthost] [info] ExtensionService#_doActivateExtension pivaszbs.svelte-autoimport {"startup":false,"extensionId":{"value":"pivaszbs.svelte-autoimport","_lower":"pivaszbs.svelte-autoimport"},"activationEvent":"onLanguage:svelte"}
+[2021-07-21 11:16:42.750] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/soeren/.vscode/extensions/pivaszbs.svelte-autoimport-1.0.4/out/extension.js
+[2021-07-21 11:16:42.757] [exthost] [info] ExtensionService#_doActivateExtension svelte.svelte-vscode {"startup":false,"extensionId":{"value":"svelte.svelte-vscode","_lower":"svelte.svelte-vscode"},"activationEvent":"onLanguage:svelte"}
+[2021-07-21 11:16:42.757] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/soeren/.vscode/extensions/svelte.svelte-vscode-105.3.1/dist/src/extension.js
+[2021-07-21 11:16:42.825] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-21 11:16:42.825] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-07-21 11:16:42.826] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-21 11:16:42.826] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-07-21 11:16:42.838] [exthost] [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim {"startup":true,"extensionId":{"value":"asvetliakov.vscode-neovim","_lower":"asvetliakov.vscode-neovim"},"activationEvent":"*"}
+[2021-07-21 11:16:42.838] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/soeren/.vscode/extensions/asvetliakov.vscode-neovim-0.0.82/dist/extension.js
+[2021-07-21 11:16:42.848] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-07-21 11:16:42.848] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/npmMain
+[2021-07-21 11:16:43.208] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-07-21 11:16:43.209] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-07-21 11:16:43.315] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-21 11:16:43.315] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-07-21 11:16:43.550] [exthost] [info] eager extensions activated
+[2021-07-21 11:16:43.575] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-07-21 11:16:43.576] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-07-21 11:16:43.582] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-07-21 11:16:43.583] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-21 11:16:43.588] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-07-21 11:16:43.588] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-21 11:16:43.590] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-07-21 11:16:43.590] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-07-21 11:17:00.251] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-07-21 11:17:01.270] [exthost] [info] exiting with code 0
+[2021-07-21 11:17:01.689] [exthost] [info] extension host started
+[2021-07-21 11:17:01.689] [exthost] [info] Skipping acquiring lock for /home/soeren/.config/Code/User/workspaceStorage/3be0cc06f5ab4a32eef053f3bae656c0.
+[2021-07-21 11:17:01.801] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-07-21 11:17:01.801] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-07-21 11:17:01.811] [exthost] [info] ExtensionService#_doActivateExtension ardenivanov.svelte-intellisense {"startup":false,"extensionId":{"value":"ardenivanov.svelte-intellisense","_lower":"ardenivanov.svelte-intellisense"},"activationEvent":"onLanguage:svelte"}
+[2021-07-21 11:17:01.811] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/soeren/.vscode/extensions/ardenivanov.svelte-intellisense-0.7.1/client/out/extension
+[2021-07-21 11:17:01.838] [exthost] [info] ExtensionService#_doActivateExtension pivaszbs.svelte-autoimport {"startup":false,"extensionId":{"value":"pivaszbs.svelte-autoimport","_lower":"pivaszbs.svelte-autoimport"},"activationEvent":"onLanguage:svelte"}
+[2021-07-21 11:17:01.839] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/soeren/.vscode/extensions/pivaszbs.svelte-autoimport-1.0.4/out/extension.js
+[2021-07-21 11:17:01.847] [exthost] [info] ExtensionService#_doActivateExtension svelte.svelte-vscode {"startup":false,"extensionId":{"value":"svelte.svelte-vscode","_lower":"svelte.svelte-vscode"},"activationEvent":"onLanguage:svelte"}
+[2021-07-21 11:17:01.847] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/soeren/.vscode/extensions/svelte.svelte-vscode-105.3.1/dist/src/extension.js
+[2021-07-21 11:17:01.912] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-21 11:17:01.912] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-07-21 11:17:01.914] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-21 11:17:01.914] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-07-21 11:17:01.926] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-07-21 11:17:01.926] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/npmMain
+[2021-07-21 11:17:02.080] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-21 11:17:02.081] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-07-21 11:17:02.166] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-07-21 11:17:02.167] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-07-21 11:17:02.306] [exthost] [info] eager extensions activated
+[2021-07-21 11:17:02.541] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-07-21 11:17:02.541] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-21 11:17:02.545] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-07-21 11:17:02.545] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-21 11:17:02.547] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-07-21 11:17:02.547] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-07-21 11:17:02.603] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-07-21 11:17:02.603] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-07-21 11:17:18.436] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-07-21 11:17:18.436] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-07-21 11:17:18.442] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-07-21 11:17:18.442] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-07-21 11:17:18.451] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-07-21 11:17:18.451] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-07-21 11:17:18.466] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-07-21 11:17:18.466] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-07-21 11:17:35.782] [exthost] [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim {"startup":false,"extensionId":{"value":"asvetliakov.vscode-neovim","_lower":"asvetliakov.vscode-neovim"},"activationEvent":"*"}
+[2021-07-21 11:17:35.783] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/soeren/.vscode/extensions/asvetliakov.vscode-neovim-0.0.82/dist/extension.js
+[2021-07-21 11:18:21.554] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-07-21 11:18:22.568] [exthost] [info] exiting with code 0

@@ -1,0 +1,15 @@
+[1]
+ActiveTab=0
+Urls[$e]=file:$HOME/Dokumente/Website-Andrea/test/src/images/Schwenken_2018_Globale Migration zur Einführung - S. 10-19\\, 37-62.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Shell
+DisplayPort-0 Height 1920x1080=953
+DisplayPort-0 Width 1920x1080=960
+DisplayPort-0 XPosition 1920x1080=0
+DisplayPort-0 YPosition 1920x1080=60
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAAA8AAAANZAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA

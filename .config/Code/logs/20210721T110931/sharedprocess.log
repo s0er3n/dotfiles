@@ -1,0 +1,65 @@
+[2021-07-21 11:09:43.088] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-07-21 11:09:43.089] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210720T182403'
+[2021-07-21 11:09:43.928] [sharedprocess] [info] Installing extension: asvetliakov.vscode-neovim
+[2021-07-21 11:09:43.930] [sharedprocess] [info] Installing the extension without checking dependencies and pack asvetliakov.vscode-neovim
+[2021-07-21 11:09:43.959] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-de
+[2021-07-21 11:09:43.960] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-ceintl.vscode-language-pack-de
+[2021-07-21 11:09:44.035] [sharedprocess] [info] Downloaded extension: asvetliakov.vscode-neovim /home/soeren/.config/Code/CachedExtensionVSIXs/asvetliakov.vscode-neovim-0.0.82
+[2021-07-21 11:09:44.040] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-de /home/soeren/.config/Code/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-de-1.58.8
+[2021-07-21 11:09:44.171] [sharedprocess] [info] Extracted extension to /home/soeren/.vscode/extensions/.8ac64048-75c6-4751-b980-3f0d75a478cc: asvetliakov.vscode-neovim
+[2021-07-21 11:09:44.176] [sharedprocess] [info] Renamed to /home/soeren/.vscode/extensions/asvetliakov.vscode-neovim-0.0.82
+[2021-07-21 11:09:44.177] [sharedprocess] [info] Installation completed. asvetliakov.vscode-neovim
+[2021-07-21 11:09:44.184] [sharedprocess] [info] Extensions installed successfully: asvetliakov.vscode-neovim
+[2021-07-21 11:09:44.298] [sharedprocess] [info] Installing extension: stuart.unique-window-colors
+[2021-07-21 11:09:44.300] [sharedprocess] [info] Installing the extension without checking dependencies and pack stuart.unique-window-colors
+[2021-07-21 11:09:44.342] [sharedprocess] [info] Extracted extension to /home/soeren/.vscode/extensions/.86cf2f27-d0b0-4805-abf4-bfcb4cf9a4f0: ms-ceintl.vscode-language-pack-de
+[2021-07-21 11:09:44.366] [sharedprocess] [info] Renamed to /home/soeren/.vscode/extensions/ms-ceintl.vscode-language-pack-de-1.58.8
+[2021-07-21 11:09:44.374] [sharedprocess] [info] Installation completed. ms-ceintl.vscode-language-pack-de
+[2021-07-21 11:09:44.383] [sharedprocess] [info] Extensions installed successfully: ms-ceintl.vscode-language-pack-de
+[2021-07-21 11:09:45.861] [sharedprocess] [info] Downloaded extension: stuart.unique-window-colors /home/soeren/.config/Code/CachedExtensionVSIXs/stuart.unique-window-colors-1.0.51
+[2021-07-21 11:09:45.976] [sharedprocess] [info] Extracted extension to /home/soeren/.vscode/extensions/.f928db6c-2380-46c3-8c8d-22e33be9c113: stuart.unique-window-colors
+[2021-07-21 11:09:45.980] [sharedprocess] [info] Renamed to /home/soeren/.vscode/extensions/stuart.unique-window-colors-1.0.51
+[2021-07-21 11:09:45.984] [sharedprocess] [info] Installation completed. stuart.unique-window-colors
+[2021-07-21 11:09:45.995] [sharedprocess] [info] Extensions installed successfully: stuart.unique-window-colors
+[2021-07-21 11:10:03.083] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-07-21 11:10:03.085] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-07-21 11:10:13.085] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-07-21 11:10:13.087] [sharedprocess] [error] [uncaught exception in sharedProcess]: A system error occurred (ENOENT: no such file or directory, scandir '/home/soeren/.config/Code/clp/001de9834a40fbde62f409a308aee70e.de'): Error: ENOENT: no such file or directory, scandir '/home/soeren/.config/Code/clp/001de9834a40fbde62f409a308aee70e.de'
+[2021-07-21 11:10:26.240] [sharedprocess] [info] Uninstalling extension: ardenivanov.svelte-intellisense
+[2021-07-21 11:10:26.241] [sharedprocess] [info] Uninstalling extension: bradlc.vscode-tailwindcss
+[2021-07-21 11:10:26.242] [sharedprocess] [info] Uninstalling extension: esbenp.prettier-vscode
+[2021-07-21 11:10:26.242] [sharedprocess] [info] Uninstalling extension: fivethree.vscode-svelte-snippets
+[2021-07-21 11:10:26.243] [sharedprocess] [info] Uninstalling extension: svelte.svelte-vscode
+[2021-07-21 11:10:26.265] [sharedprocess] [info] Successfully uninstalled extension: ardenivanov.svelte-intellisense
+[2021-07-21 11:10:26.268] [sharedprocess] [info] Successfully uninstalled extension: bradlc.vscode-tailwindcss
+[2021-07-21 11:10:26.270] [sharedprocess] [info] Successfully uninstalled extension: esbenp.prettier-vscode
+[2021-07-21 11:10:26.272] [sharedprocess] [info] Successfully uninstalled extension: fivethree.vscode-svelte-snippets
+[2021-07-21 11:10:26.274] [sharedprocess] [info] Successfully uninstalled extension: svelte.svelte-vscode
+[2021-07-21 11:10:26.576] [sharedprocess] [info] Detected extension removed from another source ardenivanov.svelte-intellisense
+[2021-07-21 11:10:26.577] [sharedprocess] [info] Detected extension removed from another source bradlc.vscode-tailwindcss
+[2021-07-21 11:10:26.577] [sharedprocess] [info] Detected extension removed from another source esbenp.prettier-vscode
+[2021-07-21 11:10:26.578] [sharedprocess] [info] Detected extension removed from another source fivethree.vscode-svelte-snippets
+[2021-07-21 11:10:26.578] [sharedprocess] [info] Detected extension removed from another source svelte.svelte-vscode
+[2021-07-21 11:12:06.262] [sharedprocess] [info] Uninstalling extension: stuart.unique-window-colors
+[2021-07-21 11:12:06.281] [sharedprocess] [info] Successfully uninstalled extension: stuart.unique-window-colors
+[2021-07-21 11:12:06.494] [sharedprocess] [info] Detected extension removed from another source stuart.unique-window-colors
+[2021-07-21 11:12:29.539] [sharedprocess] [info] Installing extension: svelte.svelte-vscode
+[2021-07-21 11:12:29.702] [sharedprocess] [info] Downloaded extension: svelte.svelte-vscode /home/soeren/.config/Code/CachedExtensionVSIXs/svelte.svelte-vscode-105.3.1
+[2021-07-21 11:12:29.725] [sharedprocess] [info] Removed the extension from uninstalled list: svelte.svelte-vscode
+[2021-07-21 11:12:29.729] [sharedprocess] [info] Extensions installed successfully: svelte.svelte-vscode
+[2021-07-21 11:12:31.963] [sharedprocess] [info] Installing extension: ardenivanov.svelte-intellisense
+[2021-07-21 11:12:32.126] [sharedprocess] [info] Downloaded extension: ardenivanov.svelte-intellisense /home/soeren/.config/Code/CachedExtensionVSIXs/ardenivanov.svelte-intellisense-0.7.1
+[2021-07-21 11:12:32.177] [sharedprocess] [info] Removed the extension from uninstalled list: ardenivanov.svelte-intellisense
+[2021-07-21 11:12:32.179] [sharedprocess] [info] Extensions installed successfully: ardenivanov.svelte-intellisense
+[2021-07-21 11:12:39.951] [sharedprocess] [info] Installing extension: pivaszbs.svelte-autoimport
+[2021-07-21 11:12:41.149] [sharedprocess] [info] Downloaded extension: pivaszbs.svelte-autoimport /home/soeren/.config/Code/CachedExtensionVSIXs/pivaszbs.svelte-autoimport-1.0.4
+[2021-07-21 11:12:41.175] [sharedprocess] [info] Extracted extension to /home/soeren/.vscode/extensions/.51e085cb-f26e-48ba-a26a-ab092482a18e: pivaszbs.svelte-autoimport
+[2021-07-21 11:12:41.178] [sharedprocess] [info] Renamed to /home/soeren/.vscode/extensions/pivaszbs.svelte-autoimport-1.0.4
+[2021-07-21 11:12:41.179] [sharedprocess] [info] Installation completed. pivaszbs.svelte-autoimport
+[2021-07-21 11:12:41.181] [sharedprocess] [info] Extensions installed successfully: pivaszbs.svelte-autoimport
+[2021-07-21 11:12:42.159] [sharedprocess] [info] Installing extension: melihaltintas.svelte-format
+[2021-07-21 11:12:44.257] [sharedprocess] [info] Downloaded extension: melihaltintas.svelte-format /home/soeren/.config/Code/CachedExtensionVSIXs/melihaltintas.svelte-format-0.0.7
+[2021-07-21 11:12:44.502] [sharedprocess] [info] Extracted extension to /home/soeren/.vscode/extensions/.126b28ea-84ec-448e-a7ca-a57c7c4685fe: melihaltintas.svelte-format
+[2021-07-21 11:12:44.507] [sharedprocess] [info] Renamed to /home/soeren/.vscode/extensions/melihaltintas.svelte-format-0.0.7
+[2021-07-21 11:12:44.508] [sharedprocess] [info] Installation completed. melihaltintas.svelte-format
+[2021-07-21 11:12:44.510] [sharedprocess] [info] Extensions installed successfully: melihaltintas.svelte-format

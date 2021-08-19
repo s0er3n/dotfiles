@@ -1,0 +1,80 @@
+Validating found git in: git
+Using git 2.32.0 from git
+> git rev-parse --git-dir
+Open repository: /home/soeren/Programming/andreas-site
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/soeren/Programming/andreas-site/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/Hamburger.svelte
+> git ls-files --stage -- /home/soeren/Programming/andreas-site/src/Hamburger.svelte
+> git cat-file -s 4be8ca0b9f77336a972e556b75e7c84d8840645b
+> git check-ignore -v -z --stdin
+> git show --textconv :src/App.svelte
+> git ls-files --stage -- /home/soeren/Programming/andreas-site/src/App.svelte
+> git cat-file -s ff2b183d818a2d6b59271bb12e79c5195ea4c6eb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/soeren/Programming/andreas-site/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/soeren/Programming/andreas-site/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/Gallery.svelte
+> git ls-files --stage -- /home/soeren/Programming/andreas-site/src/Gallery.svelte
+> git cat-file -s 9f321992ed62049af8c24f7eff62cb63fd5cdeff
+> git show --textconv :src/App.svelte
+> git ls-files --stage -- /home/soeren/Programming/andreas-site/src/App.svelte
+> git cat-file -s ff2b183d818a2d6b59271bb12e79c5195ea4c6eb
+> git show --textconv :src/App.svelte
+> git ls-files --stage -- /home/soeren/Programming/andreas-site/src/App.svelte
+> git cat-file -s ff2b183d818a2d6b59271bb12e79c5195ea4c6eb
+> git show --textconv :src/App.svelte
+> git ls-files --stage -- /home/soeren/Programming/andreas-site/src/App.svelte
+> git cat-file -s ff2b183d818a2d6b59271bb12e79c5195ea4c6eb
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/soeren/Programming/andreas-site/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/App.svelte
+> git ls-files --stage -- /home/soeren/Programming/andreas-site/src/App.svelte
+> git cat-file -s ff2b183d818a2d6b59271bb12e79c5195ea4c6eb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/soeren/Programming/andreas-site/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/App.svelte
+> git ls-files --stage -- /home/soeren/Programming/andreas-site/src/App.svelte
+> git cat-file -s ff2b183d818a2d6b59271bb12e79c5195ea4c6eb
+> git show --textconv :src/App.svelte
+> git ls-files --stage -- /home/soeren/Programming/andreas-site/src/App.svelte
+> git cat-file -s ff2b183d818a2d6b59271bb12e79c5195ea4c6eb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/soeren/Programming/andreas-site/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :src/App.svelte
+> git ls-files --stage -- /home/soeren/Programming/andreas-site/src/App.svelte
+> git cat-file -s ff2b183d818a2d6b59271bb12e79c5195ea4c6eb
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/soeren/Programming/andreas-site/src/App.svelte

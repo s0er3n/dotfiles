@@ -1,0 +1,23 @@
+Initialize language server at  file:///home/soeren/Programming/andreas-site
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.7.4 from /home/soeren/Programming/andreas-site/node_modules/svelte-preprocess
+Initialize new ts service at  
+Trying to load configs for 
+No svelte.config.js found. Using https://github.com/sveltejs/svelte-preprocess as fallback
+Using svelte-preprocess v4.7.4 from /home/soeren/Programming/andreas-site/node_modules/svelte-preprocess
+SnapshotManager File Statistics:
+Project files: 0
+Svelte files: 1
+From node_modules: 0
+Total: 1
+Using Svelte v3.38.3 from /home/soeren/Programming/andreas-site/node_modules/svelte/compiler
+Using Svelte v3.38.3 from /home/soeren/Programming/andreas-site/node_modules/svelte/compiler
+Using Svelte v3.38.3 from /home/soeren/Programming/andreas-site/node_modules/svelte/compiler
+Using Svelte v3.38.3 from /home/soeren/Programming/andreas-site/node_modules/svelte/compiler
+SnapshotManager File Statistics:
+Project files: 0
+Svelte files: 8
+From node_modules: 139
+Total: 148
+Using Svelte v3.38.3 from /home/soeren/Programming/andreas-site/node_modules/svelte/compiler
+Using Svelte v3.38.3 from /home/soeren/Programming/andreas-site/node_modules/svelte/compiler

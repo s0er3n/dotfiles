@@ -1,0 +1,32 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAAOAAAAKgAAAo0AAAMZAAAADgAAAEoAAAKNAAADGQAAAAAAAAAAB4AAAAAOAAAASgAAAo0AAAMZ"
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIgA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAlwD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACAAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOwA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAM0A////AAACgAAAAtAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "controls_help_shown_count": 1,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Agatha Christie"
+        ],
+        "key": "/home/soeren/Calibre-Bibliothek/Agatha Christie/Die Morde des Herrn ABC (2)/Die Morde des Herrn ABC - Agatha Christie.epub",
+        "pathtoebook": "/home/soeren/Calibre-Bibliothek/Agatha Christie/Die Morde des Herrn ABC (2)/Die Morde des Herrn ABC - Agatha Christie.epub",
+        "timestamp": "2021-04-25T12:55:56.950Z",
+        "title": "Die Morde des Herrn ABC"
+      }
+    ]
+  }
+}
