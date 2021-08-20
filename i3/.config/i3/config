@@ -1,3 +1,5 @@
+
+#
 # Make the currently focused window a scratchpad
 bindsym $mod+Shift+b move scratchpad
 
@@ -320,6 +322,8 @@ for_window [title="Picture-in-Picture"] sticky enable
 # autostart applications/services on login: #
 #############################################
 
+exec "setxkbmap -layout eu"
+exec "setxkbmap -option caps:escape"
 #get auth work with polkit-gnome
 exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 
