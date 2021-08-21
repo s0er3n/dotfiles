@@ -301,7 +301,9 @@ set $ws10 "10"
 # you can get from xrandr command
 #workspace $ws1 output VGA-0
 #workspace $ws2 output VGA-0
-#workspace $ws3 output HDMI-0
+workspace $ws8 output HDMI2
+workspace $ws9 output HDMI2
+workspace $ws0 output HDMI2
 #workspace $ws4 output HDMI-0
 #workspace $ws5 output HDMI-0
 
