@@ -27,7 +27,7 @@ endif
 
 " autofold
 set foldmethod=indent   
-set foldnestmax=10
+set foldnestmax=999
 set nofoldenable
 set foldlevel=2
 
