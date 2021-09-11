@@ -49,7 +49,7 @@ set undofile
 " Plugins
 call plug#begin('~/.vim/plugged')
 Plug 'heavenshell/vim-jsdoc', {
-  \ 'for': ['javascript', 'javascript.jsx','typescript'],
+  \ 'for': ['javascript', 'javascript.jsx','typescript', 'svelte'],
   \ 'do': 'make install'
 \}
 Plug 'francoiscabrol/ranger.vim'
