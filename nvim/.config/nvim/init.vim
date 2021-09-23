@@ -48,6 +48,12 @@ set undofile
 
 " Plugins
 call plug#begin('~/.vim/plugged')
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+Plug 'heavenshell/vim-jsdoc', {
+  \ 'for': ['javascript', 'javascript.jsx','typescript', 'typescript.svelte'],
+  \ 'do': 'make install'
+\}
 Plug 'francoiscabrol/ranger.vim'
 Plug 'rbgrouleff/bclose.vim'
 Plug 'SirVer/ultisnips'
