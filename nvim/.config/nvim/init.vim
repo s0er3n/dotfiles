@@ -62,6 +62,7 @@ Plug 'lifepillar/vim-gruvbox8'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'rodrigore/coc-tailwind-intellisense', {'do': 'npm install'}
 Plug 'coc-extensions/coc-svelte', {'do': 'npm install'} 
+Plug 'evanleck/vim-svelte', {'branch': 'main'}
 call plug#end()
 
 
