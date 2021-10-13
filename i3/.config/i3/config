@@ -274,7 +274,7 @@ bindsym XF86AudioPrev exec playerctl previous
 bindsym $mod+p exec /usr/local/bin/switch-audio-port
 
 ## App shortcuts
-bindsym $mod+Shift+Return exec firefox
+bindsym $mod+Shift+Return exec chromium
 bindsym Print exec "flameshot gui"
 bindsym $mod+g exec i3-layout-manager
 bindsym $mod+n exec /usr/bin/thunar
