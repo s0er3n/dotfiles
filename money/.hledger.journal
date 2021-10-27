@@ -3,3 +3,11 @@
     einnahmen:beitrag:markus             -10
     einnahmen:beitrag:anna               -10
     vermögen:bargeld                      20
+
+2021-09-26 Marlies hat Amira 20 Euro für September, Oktober, November und Dezember gegeben
+    einnahmen:beitrag:marlies             -20
+    vermögen:bargeld                      20
+
+2021-10-01 Amira und Sören haben 5 euro in die Gartenkasse für September gelegt
+    einnahmen:beitrag:amira/sören              -5
+    vermögen:bargeld                            5
