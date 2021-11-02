@@ -23,7 +23,7 @@ if has('mouse_sgr')
     " sgr mouse is better but not every term supports it
     set ttymouse=sgr
 endif
-for  in 
+for in  in 
   
 endfor
 " snippets
