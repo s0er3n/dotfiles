@@ -48,6 +48,7 @@ set undofile
 
 " Plugins
 call plug#begin('~/.vim/plugged')
+Plug 'mcchrish/nnn.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'heavenshell/vim-jsdoc', {
