@@ -24,15 +24,6 @@ if has('mouse_sgr')
     set ttymouse=sgr
 endif
 
-
-" autofold
-set foldmethod=indent   
-set foldnestmax=999
-set nofoldenable
-set foldlevel=2
-
-
-
 " snippets
 let g:UltiSnipsExpandTrigger="<tab>"
 let g:UltiSnipsJumpForwardTrigger="<c-b>"
