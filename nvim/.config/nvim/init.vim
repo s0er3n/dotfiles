@@ -7,7 +7,7 @@ let mapleader = "\<Space>"
 "theme
 colorscheme gruvbox
 
-map 
+map <leader>n :Format 
 
 let $NVIM_TUI_ENABLE_TRUE_COLOR=1
 let g:auto_save = 1
