@@ -10,6 +10,8 @@ colorscheme gruvbox
 map <leader>f :Format<CR>
 map <c-p> :GFiles<CR>
 
+let g:nnn#set_default_mappings = 0
+
 let $NVIM_TUI_ENABLE_TRUE_COLOR=1
 let g:auto_save = 1
 
