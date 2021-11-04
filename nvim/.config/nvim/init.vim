@@ -52,7 +52,6 @@ Plug 'heavenshell/vim-jsdoc', {
 Plug 'rbgrouleff/bclose.vim'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
-Plug 'kien/ctrlp.vim'
 Plug 'tpope/vim-surround'
 Plug 'tpope/vim-commentary'
 Plug 'justinmk/vim-sneak'
