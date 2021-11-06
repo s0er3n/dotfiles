@@ -6,7 +6,6 @@ set clipboard=unnamedplus      " copy and yank to system clipboard
 let mapleader = "\<Space>"
 
 map <leader>f :Format<CR>
-map <c-p> :GFiles<CR>
 
 nnoremap <c-p> <cmd>Telescope find_files<cr>
 let g:nnn#set_default_mappings = 0
