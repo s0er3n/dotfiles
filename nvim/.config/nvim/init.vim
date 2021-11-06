@@ -15,6 +15,7 @@ let g:nnn#set_default_mappings = 0
 nnoremap <leader>n :NvimTreeToggle<CR>
 
                             lua << EOF
+require'nvim-tree'.setup()
                             endfunction
 
 let $NVIM_TUI_ENABLE_TRUE_COLOR=1
