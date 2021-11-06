@@ -51,7 +51,7 @@ require("toggleterm").setup{
       return vim.o.columns * 0.4
     end
   end,
-  open_mapping = [[<c-leader>]],
+  open_mapping = [[<c>]],
   hide_numbers = true, -- hide the number column in toggleterm buffers
   shade_filetypes = {},
   shade_terminals = true,
@@ -79,7 +79,7 @@ require("toggleterm").setup{
   }
 }
 EOF
-" terminal
+
 
 set number                     " Show current line number set relativenumber             " Show relative line numbers
 set clipboard=unnamedplus      " copy and yank to system clipboard
