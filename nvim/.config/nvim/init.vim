@@ -24,6 +24,12 @@ map F <Plug>Sneak_F
 map t <Plug>Sneak_t
 map T <Plug>Sneak_T
 
+
+" Buffer
+set termguicolors
+lua << EOF
+require("bufferline").setup{}
+EOF
 " enable mouse
 set mouse=a
 if has('mouse_sgr')
