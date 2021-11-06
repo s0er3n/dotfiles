@@ -42,7 +42,7 @@ nvim = require 'nvim'
 local base16 = require 'base16'
 base16(base16.themes["nord"], true)
 
-require("toggleterm").setup{
+require("toggleterm").setup({
   -- size can be a number or function which is passed the current terminal
   size = 20 | function(term)
     if term.direction == "horizontal" then
@@ -77,7 +77,7 @@ require("toggleterm").setup{
       background = "Normal",
     }
   }
-}
+})
 EOF
 set number                     " Show current line number
 set relativenumber             " Show relative line numbers
