@@ -55,6 +55,8 @@ Plug 'heavenshell/vim-jsdoc', {
   \ 'for': ['javascript', 'javascript.jsx','typescript', 'typescript.svelte'],
   \ 'do': 'make install'
 \}
+Plug 'lukas-reineke/indent-blankline.nvim'
+
 Plug 'rbgrouleff/bclose.vim'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
