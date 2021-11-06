@@ -8,7 +8,7 @@ let mapleader = "\<Space>"
 map <leader>f :Format<CR>
 map <c-p> :GFiles<CR>
 
-nnoremap <leader>ff <cmd>Telescope find_files<cr>
+nnoremap <c-p> <cmd>Telescope find_files<cr>
 let g:nnn#set_default_mappings = 0
 
 nnoremap <leader>n :NnnPicker %:p:h<CR>
