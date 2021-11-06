@@ -47,7 +47,7 @@ require("toggleterm").setup{
   hide_numbers = false, -- hide the number column in toggleterm buffers
   shade_terminals = true,
   start_in_insert = true,
-  insert_mappings = false, -- whether or not the open mapping applies in insert mode
+  insert_mappings = true, -- whether or not the open mapping applies in insert mode
   persist_size = true,
   direction = 'horizontal', 
   close_on_exit = true, -- close the terminal window when the process exits
