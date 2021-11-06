@@ -43,8 +43,8 @@ local base16 = require 'base16'
 base16(base16.themes["nord"], true)
 
 require("toggleterm").setup{
-  open_mapping = [[<leader><leader>]],
-  hide_numbers = true, -- hide the number column in toggleterm buffers
+  open_mapping = [[<c-o>]],
+  hide_numbers = false, -- hide the number column in toggleterm buffers
   shade_terminals = true,
   start_in_insert = true,
   insert_mappings = true, -- whether or not the open mapping applies in insert mode
