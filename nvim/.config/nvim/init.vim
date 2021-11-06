@@ -77,13 +77,13 @@ map t <Plug>Sneak_t
 map T <Plug>Sneak_T
 
 
+lua require'colorizer'.setup()
+
 " Buffer
 set termguicolors
 lua << EOF
 require("bufferline").setup{}
 require('gitsigns').setup()
-require 'colorizer'.setup()
-
 EOF
 " enable mouse
 set mouse=a
