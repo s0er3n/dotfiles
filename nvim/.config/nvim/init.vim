@@ -57,6 +57,7 @@ Plug 'heavenshell/vim-jsdoc', {
 \}
 Plug 'lukas-reineke/indent-blankline.nvim'
 
+Plug 'glepnir/dashboard-nvim'
 Plug 'rbgrouleff/bclose.vim'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
