@@ -14,6 +14,7 @@ let g:nnn#set_default_mappings = 0
 " Toggle Tree
 nnoremap <leader>n :NvimTreeToggle<CR>
 
+require'nvim-tree'.setup()
 
 let $NVIM_TUI_ENABLE_TRUE_COLOR=1
 let g:auto_save = 1
