@@ -17,8 +17,7 @@ Plug 'heavenshell/vim-jsdoc', {
   \ 'for': ['javascript', 'javascript.jsx','typescript', 'typescript.svelte'],
   \ 'do': 'make install'
 \}
-Plug "norcalli/nvim-base16.lua"
-
+Plug 'norcalli/nvim-base16.lua'
 Plug 'lukas-reineke/indent-blankline.nvim'
 Plug 'ms-jpq/chadtree', {'branch': 'chad', 'do': 'python3 -m chadtree deps'}
 Plug 'rbgrouleff/bclose.vim'
