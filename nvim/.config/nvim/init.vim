@@ -39,7 +39,7 @@ call plug#end()
 lua << EOF
 nvim = require 'nvim'
 local base16 = require 'base16'
-base16(base16.themes["night"], true)
+base16(base16.themes["nord"], true)
 EOF
 set number                     " Show current line number
 set relativenumber             " Show relative line numbers
