@@ -17,6 +17,8 @@ Plug 'heavenshell/vim-jsdoc', {
   \ 'for': ['javascript', 'javascript.jsx','typescript', 'typescript.svelte'],
   \ 'do': 'make install'
 \}
+Plug "norcalli/nvim-base16.lua"
+
 Plug 'lukas-reineke/indent-blankline.nvim'
 Plug 'ms-jpq/chadtree', {'branch': 'chad', 'do': 'python3 -m chadtree deps'}
 Plug 'rbgrouleff/bclose.vim'
@@ -34,7 +36,12 @@ Plug 'rodrigore/coc-tailwind-intellisense', {'do': 'npm install'}
 Plug 'coc-extensions/coc-svelte', {'do': 'npm install'} 
 Plug 'evanleck/vim-svelte', {'branch': 'main'}
 call plug#end()
-
+" color
+lua << EOF
+nvim = require 'nvim'
+local base16 = require 'base16'
+base16(base16.themes[nvim.env.BASE16_THEME or "3024"], true)
+EOF
 set number                     " Show current line number
 set relativenumber             " Show relative line numbers
 set clipboard=unnamedplus      " copy and yank to system clipboard
