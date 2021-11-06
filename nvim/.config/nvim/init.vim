@@ -70,6 +70,8 @@ Plug 'evanleck/vim-svelte', {'branch': 'main'}
 call plug#end()
 
 
+"theme
+colorscheme nord
 
 " coc stuff
 " TextEdit might fail if hidden is not set.
