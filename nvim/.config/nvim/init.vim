@@ -13,6 +13,8 @@ let g:nnn#set_default_mappings = 0
 
 nnoremap <leader>n :NnnPicker %:p:h<CR>
 "
+nnoremap <C-n> :NvimTreeToggle<CR>
+
 
 let $NVIM_TUI_ENABLE_TRUE_COLOR=1
 let g:auto_save = 1
