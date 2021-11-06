@@ -11,9 +11,8 @@ nnoremap <c-p> <cmd>Telescope git_files<cr>
 
 let g:nnn#set_default_mappings = 0
 
-nnoremap <leader>n :NnnPicker %:p:h<CR>
 " Toggle Tree
-nnoremap <C-n> :NvimTreeToggle<CR>
+nnoremap  :NvimTreeToggle<CR>
 
 
 let $NVIM_TUI_ENABLE_TRUE_COLOR=1
