@@ -1,4 +1,37 @@
 " Meine Config
+
+" Plugins
+call plug#begin()
+Plug 'kyazdani42/nvim-web-devicons' " for file icons
+Plug 'akinsho/bufferline.nvim'
+
+Plug 'nvim-lua/plenary.nvim'
+Plug 'nvim-telescope/telescope.nvim'
+Plug 'mcchrish/nnn.vim'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+Plug 'heavenshell/vim-jsdoc', {
+  \ 'for': ['javascript', 'javascript.jsx','typescript', 'typescript.svelte'],
+  \ 'do': 'make install'
+\}
+Plug 'lukas-reineke/indent-blankline.nvim'
+Plug 'ms-jpq/chadtree', {'branch': 'chad', 'do': 'python3 -m chadtree deps'}
+Plug 'rbgrouleff/bclose.vim'
+Plug 'SirVer/ultisnips'
+Plug 'honza/vim-snippets'
+Plug 'arcticicestudio/nord-vim'
+Plug 'tpope/vim-surround'
+Plug 'tpope/vim-commentary'
+Plug 'justinmk/vim-sneak'
+Plug 'sheerun/vim-polyglot'
+Plug '907th/vim-auto-save'
+Plug 'lifepillar/vim-gruvbox8'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'rodrigore/coc-tailwind-intellisense', {'do': 'npm install'}
+Plug 'coc-extensions/coc-svelte', {'do': 'npm install'} 
+Plug 'evanleck/vim-svelte', {'branch': 'main'}
+call plug#end()
+
 set number                     " Show current line number
 set relativenumber             " Show relative line numbers
 set clipboard=unnamedplus      " copy and yank to system clipboard
@@ -50,37 +83,6 @@ set undofile
 
 
 
-" Plugins
-call plug#begin()
-Plug 'kyazdani42/nvim-web-devicons' " for file icons
-Plug 'akinsho/bufferline.nvim'
-
-Plug 'nvim-lua/plenary.nvim'
-Plug 'nvim-telescope/telescope.nvim'
-Plug 'mcchrish/nnn.vim'
-Plug 'vim-airline/vim-airline'
-Plug 'vim-airline/vim-airline-themes'
-Plug 'heavenshell/vim-jsdoc', {
-  \ 'for': ['javascript', 'javascript.jsx','typescript', 'typescript.svelte'],
-  \ 'do': 'make install'
-\}
-Plug 'lukas-reineke/indent-blankline.nvim'
-Plug 'ms-jpq/chadtree', {'branch': 'chad', 'do': 'python3 -m chadtree deps'}
-Plug 'rbgrouleff/bclose.vim'
-Plug 'SirVer/ultisnips'
-Plug 'honza/vim-snippets'
-Plug 'arcticicestudio/nord-vim'
-Plug 'tpope/vim-surround'
-Plug 'tpope/vim-commentary'
-Plug 'justinmk/vim-sneak'
-Plug 'sheerun/vim-polyglot'
-Plug '907th/vim-auto-save'
-Plug 'lifepillar/vim-gruvbox8'
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
-Plug 'rodrigore/coc-tailwind-intellisense', {'do': 'npm install'}
-Plug 'coc-extensions/coc-svelte', {'do': 'npm install'} 
-Plug 'evanleck/vim-svelte', {'branch': 'main'}
-call plug#end()
 
 
 "theme
