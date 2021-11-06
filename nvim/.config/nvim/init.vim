@@ -43,7 +43,7 @@ local base16 = require 'base16'
 base16(base16.themes["nord"], true)
 
 require("toggleterm").setup{
-  open_mapping = "<leader>j",
+  open_mapping = "<Leader>j",
   hide_numbers = false, -- hide the number column in toggleterm buffers
   shade_terminals = true,
   start_in_insert = true,
