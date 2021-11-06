@@ -4,8 +4,6 @@ set relativenumber             " Show relative line numbers
 set clipboard=unnamedplus      " copy and yank to system clipboard
 " tnoremap <Esc> <C-\><C-n>      " enable esc in terminal
 let mapleader = "\<Space>"
-"theme
-colorscheme nord
 
 map <leader>f :Format<CR>
 map <c-p> :GFiles<CR>
