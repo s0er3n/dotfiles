@@ -14,6 +14,14 @@ let g:nnn#set_default_mappings = 0
 " Toggle Tree
 nnoremap <leader>n :NvimTreeToggle<CR>
 
+                            lua << EOF
+                            local linenr = vim.api.nvim_win_get_cursor(0)[1]
+                            local curline = vim.api.nvim_buf_get_lines(
+                                    0, linenr, linenr + 1, false)[1]
+                            print(string.format("Current line [%d] has %d bytes",
+                                    linenr, #curline))
+                            EOF
+                            endfunction
 :require'nvim-tree'.setup()
 
 let $NVIM_TUI_ENABLE_TRUE_COLOR=1
