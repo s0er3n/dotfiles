@@ -23,8 +23,6 @@ map F <Plug>Sneak_F
 map t <Plug>Sneak_t
 map T <Plug>Sneak_T
 
-" dashboard default
-let g:dashboard_default_executive ='telescope'
 " enable mouse
 set mouse=a
 if has('mouse_sgr')
@@ -58,7 +56,6 @@ Plug 'heavenshell/vim-jsdoc', {
 \}
 Plug 'lukas-reineke/indent-blankline.nvim'
 
-Plug 'glepnir/dashboard-nvim'
 Plug 'rbgrouleff/bclose.vim'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
