@@ -7,7 +7,7 @@ let mapleader = "\<Space>"
 
 map <leader>f :Format<CR>
 
-nnoremap <c-p> <cmd>Telescope find_files<cr>
+nnoremap <c-p> <cmd>Telescope git_files<cr>
 
 let g:nnn#set_default_mappings = 0
 
