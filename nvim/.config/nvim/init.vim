@@ -3,7 +3,7 @@
 " Plugins
 call plug#begin()
 Plug 'nvim-lua/plenary.nvim'
-Plug 'lewis6991/gitsigns.nvim'
+Plug 'lewis6991/gitsigns.nvim', {'branch': 'main'}
 Plug 'kyazdani42/nvim-web-devicons' " for file icons
 Plug 'akinsho/bufferline.nvim'
 Plug 'andymass/vim-matchup'
