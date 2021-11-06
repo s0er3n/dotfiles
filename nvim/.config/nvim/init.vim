@@ -45,6 +45,8 @@ set undofile
 
 " Plugins
 call plug#begin('~/.vim/plugged')
+Plug 'kyazdani42/nvim-web-devicons' " for file icons
+Plug 'kyazdani42/nvim-tree.lua'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
 Plug 'mcchrish/nnn.vim'
