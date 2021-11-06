@@ -4,7 +4,7 @@
 call plug#begin()
 Plug 'kyazdani42/nvim-web-devicons' " for file icons
 Plug 'akinsho/bufferline.nvim'
-
+Plug 'andymass/vim-matchup'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
 Plug 'mcchrish/nnn.vim'
