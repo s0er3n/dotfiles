@@ -57,7 +57,7 @@ Plug 'heavenshell/vim-jsdoc', {
   \ 'do': 'make install'
 \}
 Plug 'lukas-reineke/indent-blankline.nvim'
-
+Plug 'ms-jpq/chadtree', {'branch': 'chad', 'do': 'python3 -m chadtree deps'}
 Plug 'rbgrouleff/bclose.vim'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
