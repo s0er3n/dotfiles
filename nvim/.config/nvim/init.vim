@@ -55,7 +55,7 @@ nnoremap <silent>b] :BufferLineCyclePrev<CR>
 
 " These commands will move the current buffer backwards or forwards in the bufferline
 nnoremap <silent><tab> :BufferLineMoveNext<CR>
-nnoremap <silent><tab> :BufferLineMovePrev<CR>
+nnoremap <silent><s-tab> :BufferLineMovePrev<CR>
 
 " These commands will sort buffers by directory, language, or a custom criteria
 nnoremap <silent>be :BufferLineSortByExtension<CR>
