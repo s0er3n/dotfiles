@@ -44,6 +44,9 @@ base16(base16.themes["nord"], true)
 
 require("toggleterm").setup()
 EOF
+" terminal
+let g:toggleterm_terminal_mapping = '<leader><leader>'
+
 set number                     " Show current line number
 set relativenumber             " Show relative line numbers
 set clipboard=unnamedplus      " copy and yank to system clipboard
