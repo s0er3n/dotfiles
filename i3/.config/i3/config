@@ -328,6 +328,7 @@ exec "setxkbmap -layout eu"
 exec "setxkbmap -option caps:escape"
 #get auth work with polkit-gnome
 exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+exec --no-startup-id redshiftgui 
 
 # dex execute .desktop files
 # keep in mind that it can cause issues 
