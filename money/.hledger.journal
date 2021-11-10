@@ -11,3 +11,11 @@
 2021-10-01 Amira und Sören haben 5 euro in die Gartenkasse für September gelegt
     einnahmen:beitrag:amira/sören              -5
     vermögen:bargeld                            5
+
+2021-11-09 Marina hat mir Geld für die Gartenkasse auf mein Revolut Konto überwiesen
+    einnahmen:beitrag:marina             -35
+    vermögen:bargeld                      35
+
+2021-11-10 Amira und Sören haben 10  euro in die Gartenkasse für Oktober und November gelegt
+    einnahmen:beitrag:amira/sören             -10
+    vermögen:bargeld                           10
