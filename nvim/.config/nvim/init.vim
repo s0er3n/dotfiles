@@ -4,7 +4,6 @@
 call plug#begin()
 Plug 'norcalli/nvim-colorizer.lua'
 Plug 'nvim-lua/plenary.nvim'
-Plug 'lewis6991/gitsigns.nvim', {'branch': 'main'}
 Plug 'kyazdani42/nvim-web-devicons' " for file icons
 Plug 'akinsho/bufferline.nvim'
 Plug 'andymass/vim-matchup'
@@ -103,7 +102,6 @@ map T <Plug>Sneak_T
 set termguicolors
 lua << EOF
 require("bufferline").setup{}
-require('gitsigns').setup()
 require('colorizer').setup()
 EOF
 " enable mouse
