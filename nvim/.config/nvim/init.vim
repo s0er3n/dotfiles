@@ -53,8 +53,5 @@ set undofile
 " command! -nargs=0 Prettier :CocCommand prettier.formatFile
 
 
-
-
-
 "theme
 colorscheme nord
