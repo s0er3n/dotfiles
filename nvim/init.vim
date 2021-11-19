@@ -1,3 +1,5 @@
+execute 'source ' . s:currDir . '/vscode-neovim.vim'
+
 " Meine Config
 set number                     " Show current line number
 set relativenumber             " Show relative line numbers
