@@ -14,7 +14,6 @@ Plug 'akinsho/bufferline.nvim'
 Plug 'andymass/vim-matchup'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
-Plug 'mcchrish/nnn.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'akinsho/toggleterm.nvim'
@@ -65,7 +64,6 @@ map <leader>f :Format<CR>
 
 nnoremap <c-p> <cmd>Telescope git_files<cr>
 
-let g:nnn#set_default_mappings = 0
 
 " Toggle Tree
 nnoremap <leader>n <cmd>CHADopen<cr>
