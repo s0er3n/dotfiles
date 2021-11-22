@@ -21,7 +21,6 @@ Plug 'akinsho/toggleterm.nvim'
 Plug 'easymotion/vim-easymotion'
 Plug 'norcalli/nvim-base16.lua'
 Plug 'lukas-reineke/indent-blankline.nvim'
-Plug 'ms-jpq/chadtree', {'branch': 'chad', 'do': 'python3 -m chadtree deps'}
 Plug 'rbgrouleff/bclose.vim'
 Plug 'SirVer/ultisnips'
 Plug 'arcticicestudio/nord-vim'
