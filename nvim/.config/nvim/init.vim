@@ -13,6 +13,7 @@ Plug 'lewis6991/gitsigns.nvim', {'branch': 'main'}
 Plug 'kyazdani42/nvim-web-devicons' " for file icons
 Plug 'akinsho/bufferline.nvim'
 Plug 'andymass/vim-matchup'
+Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim'
 Plug 'vim-airline/vim-airline'
