@@ -14,16 +14,12 @@ Plug 'mcchrish/nnn.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'akinsho/toggleterm.nvim'
-Plug 'heavenshell/vim-jsdoc', {
-  \ 'for': ['javascript', 'javascript.jsx','typescript', 'typescript.svelte'],
-  \ 'do': 'make install'
-\}
+Plug 'easymotion/vim-easymotion'
 Plug 'norcalli/nvim-base16.lua'
 Plug 'lukas-reineke/indent-blankline.nvim'
 Plug 'ms-jpq/chadtree', {'branch': 'chad', 'do': 'python3 -m chadtree deps'}
 Plug 'rbgrouleff/bclose.vim'
 Plug 'SirVer/ultisnips'
-Plug 'honza/vim-snippets'
 Plug 'arcticicestudio/nord-vim'
 Plug 'tpope/vim-surround'
 Plug 'tpope/vim-commentary'
