@@ -1,10 +1,11 @@
 " Meine Config
-let g:EasyMotion_do_mapping = 1 " Disable default mappings
 nmap s <Plug>(easymotion-overwin-f)
-n
 " Turn on case-insensitive feature
 let g:EasyMotion_smartcase = 1
 
+" JK motions: Line motions
+map <Leader>j <Plug>(easymotion-j)
+map <Leader>k <Plug>(easymotion-k)
 " Plugins
 call plug#begin()
 Plug 'norcalli/nvim-colorizer.lua'
