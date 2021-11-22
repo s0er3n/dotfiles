@@ -3,11 +3,9 @@ nmap s <Plug>(easymotion-overwin-f)
 " Turn on case-insensitive feature
 let g:EasyMotion_smartcase = 1
 
-" JK motions: Line motions
-map <Leader>j <Plug>(easymotion-j)
-map <Leader>k <Plug>(easymotion-k)
 " Plugins
 call plug#begin()
+Plug 'tpope/vim-repeat'
 Plug 'norcalli/nvim-colorizer.lua'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'lewis6991/gitsigns.nvim', {'branch': 'main'}
