@@ -70,7 +70,7 @@ nnoremap <c-p> <cmd>Telescope git_files<cr>
 
 " Toggle Tree
 
-nnoremap <leader>n :NERDTreeFocus<CR>
+nnoremap <leader>n :NERDTree<CR>
 
 ""
 " These commands will navigate through buffers in order regardless of which mode you are using
