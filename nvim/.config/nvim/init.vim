@@ -7,6 +7,7 @@ let g:EasyMotion_smartcase = 1
 call plug#begin()
 Plug 'tpope/vim-repeat'
 Plug 'norcalli/nvim-colorizer.lua'
+Plug 'preservim/nerdtree'
 Plug 'nvim-lua/plenary.nvim'
 Plug 'lewis6991/gitsigns.nvim', {'branch': 'main'}
 Plug 'kyazdani42/nvim-web-devicons' " for file icons
