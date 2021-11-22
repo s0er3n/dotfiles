@@ -5,6 +5,7 @@ let g:EasyMotion_smartcase = 1
 
 " Plugins
 call plug#begin()
+Plug 'flw-cn/vim-nerdtree-l-open-h-close'
 Plug 'tpope/vim-repeat'
 Plug 'norcalli/nvim-colorizer.lua'
 Plug 'preservim/nerdtree'
