@@ -23,3 +23,7 @@
 2021-11-15 Nina hat mir 30 Euro bei Revolut für ein halbes jahr überwiesen
     einnahmen:beitrag:nina/geraldo             -30
     vermögen:bargeld                            30
+
+2022-03-14 Marlis hat uns 15 euro für die Gartenkasse gegeben
+    einnahmen:beitrag:marlies             -15
+    vermögen:bargeld                       15
