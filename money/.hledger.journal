@@ -27,3 +27,7 @@
 2022-03-14 Marlis hat uns 15 euro für die Gartenkasse gegeben
     einnahmen:beitrag:marlies             -15
     vermögen:bargeld                       15
+
+2022-05-03 amira und sören haben 30 euro eingezahlt
+    einnahmen:beitrag:amira/sören             -30
+    vermögen:bargeld                           30
