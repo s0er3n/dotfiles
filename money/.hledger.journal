@@ -35,3 +35,11 @@
 2022-05-04 Anna hat ihren Teil des Gartenbeitrags von November bis einschließlich Mai genutzt um einen neuen flexiblen Gartenschlau und ein paar Werkzeuge zukaufen
     einnahmen:beitrag:anna             -30
     vermögen:werkzeug                   30
+
+2022-05-04 Marlies hat Amira 20 euro gegeben
+    einnahmen:beitrag:marlies             -20
+    vermögen:bargeld                      20
+
+2022-05-04 Giraldo hat uns 30 für ein halbes Jahr gegeben
+    einnahmen:beitrag:nina/geraldo             -30
+    vermögen:bargeld                            30
