@@ -31,3 +31,7 @@
 2022-05-03 amira und sören haben 30 euro eingezahlt
     einnahmen:beitrag:amira/sören             -30
     vermögen:bargeld                           30
+
+2022-05-04 Anna hat ihren Teil des Gartenbeitrags von November bis einschließlich Mai genutzt um einen neuen flexiblen Gartenschlau und ein paar Werkzeuge zukaufen
+    einnahmen:beitrag:anna             -30
+    vermögen:werkzeug                   30
