@@ -43,3 +43,13 @@
 2022-05-04 Giraldo hat uns 30 für ein halbes Jahr gegeben
     einnahmen:beitrag:nina/geraldo             -30
     vermögen:bargeld                            30
+
+2022-05-21 Markus und Marina haben eingekauft
+    vermögen:bargeld                    -109
+    einnahmen:beitrag:markus             -30
+    vermögen:bargeld                      30
+    ausgaben:pflanzen                    109
+
+2022-05-21 Marina geld zum einkaufen gegebn
+    ausgaben:marina               50
+    vermögen:bargeld             -50
